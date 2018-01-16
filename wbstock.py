@@ -14,7 +14,7 @@ headers = {
     "Host":"m.weibo.cn",
     # "Upgrade-Insecure-Requests":"1",
     "User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1",
-    "Cookie": r"_T_WM=9595e39b4b48c791dbab490fad8f560b; H5_wentry=H5; backURL=https%3A%2F%2Flogin.sina.com.cn%2Fsso%2Flogin.php%3Furl%3Dhttps%3A%2F%2Fm.weibo.cn%2F%3F%26jumpfrom%3Dweibocom%26_rand%3D1515518129.4732%26gateway%3D1%26service%3Dsinawap%26entry%3Dsinawap%26useticket%3D1%26returntype%3DMETA%26sudaref%3D%26_client_version%3D0.6.26; ALF=1518110806; SCF=AvxhgwjbHCH9_EwysmlyQAnVljnzMQ49NFd-9mYsHlI1ygrqhGgkDWbO9rZOngQfIzpRbFZF3FrMMzstnHMix0E.; SUB=_2A253UIsyDeRhGeBN7lAU9yjKyDyIHXVUuhV6rDV6PUJbktANLW7RkW1NRHZkh2JizVXgZ_FT4iR-oxYSp0i6wWr5; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WhfSWzUpOELveW-froZ.UJa5JpX5K-hUgL.Foq0SKzfS0qce052dJLoIpMLxKML1hqL1K.LxKML1hqL1KLkSc8uS7tt; SUHB=0FQrk72iRm-0cH; SSOLoginState=1515518818; WEIBOCN_FROM=1110006030; M_WEIBOCN_PARAMS=fid%3D1005056352576630%252Fhome%26uicode%3D10000011"
+    "Cookie": r""
 }
 connect = pymysql.Connect(
 	host='',
